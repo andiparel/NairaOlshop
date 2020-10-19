@@ -1,0 +1,29 @@
+body{
+    background: rgb(30, 86, 170);
+    width: 960px;
+    
+}
+.container{
+    background: rgb(253, 253, 253);      
+
+}
+.jumbotron{
+    background-color: bisque;
+    border-radius: 20px;
+    margin-left: 280px;
+    width: 800px;
+
+}
+.row-top{
+    background-color: rgb(146, 54, 54); 
+    padding-top: -20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+h1 .display-4{
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+.container input .inputLogin{
+    width: 700px;
+}
